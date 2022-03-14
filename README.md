@@ -2,7 +2,7 @@
 
 This repository contains my work on the paper : 
 
-*ACVAE-VC:Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder*[[arXiv]](https://arxiv.org/pdf/1808.05092.pdf)
+[*ACVAE-VC:Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder*](https://arxiv.org/pdf/1808.05092.pdf)
 
 http://www.kecl.ntt.co.jp/people/kameoka.hirokazu/Demos/acvae-vc/
 
