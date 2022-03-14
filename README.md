@@ -1,17 +1,15 @@
 # MVA - Audio Signal Analysis final project
 
-This repository contains my work on the paper : 
+This repository contains code for the MVA Audio Signal Analysis final project. I worked on the following paper : 
 
-*ACVAE-VC:Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder*[[arXiv]](https://arxiv.org/pdf/1808.05092.pdf)
+[*ACVAE-VC:Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder*](https://arxiv.org/pdf/1808.05092.pdf)
 
-http://www.kecl.ntt.co.jp/people/kameoka.hirokazu/Demos/acvae-vc/
-
+The code is adapted from this repository : https://github.com/ariacat3366/ACVAE-VC
 
 ## Training
-you can train this model by running train_ACVAE.ipynb. Please set your environment values in the DataSettings cell, Model Srttings cell, and Training Settings cell.
+The model can be trained using notebook.ipynb. 
 
-## Dataset download
-Download and unzip [VCC2016](https://datashare.is.ed.ac.uk/handle/10283/2211) dataset.
+## Dataset : 
+The data set can be downloaded here : https://datashare.ed.ac.uk/handle/10283/3061 
 
-## Dataset preprocessing
-you can use the dataset without any preprocessing. Input and output file format is wav.
+For more details please refer the the project presentation `presentation.pdf`
