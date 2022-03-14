@@ -1,0 +1,7 @@
+pyworld
+librosa 
+pysptk
+pytorch 
+numpy
+torchivision
+matplotlib

@@ -1,9 +1,11 @@
-# ACVAE-VC
-ACVAE-VC:Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder
+# MVA - Audio Signal Analysis final project
+
+This repository contains my work on the paper : 
+
+*ACVAE-VC:Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder*[[arXiv]](https://arxiv.org/pdf/1808.05092.pdf)
 
 http://www.kecl.ntt.co.jp/people/kameoka.hirokazu/Demos/acvae-vc/
 
-https://arxiv.org/pdf/1808.05092.pdf
 
 ## Training
 you can train this model by running train_ACVAE.ipynb. Please set your environment values in the DataSettings cell, Model Srttings cell, and Training Settings cell.
