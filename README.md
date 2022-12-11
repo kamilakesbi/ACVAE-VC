@@ -12,4 +12,4 @@ The model can be trained using notebook.ipynb.
 ## Dataset : 
 The data set can be downloaded here : https://datashare.ed.ac.uk/handle/10283/3061 
 
-For more details please refer the the project presentation `presentation.pdf`
+For more details please refer to the the project presentation `presentation.pdf`
